@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_demo_ticket_app/base/bottom_nav_bar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,13 +11,28 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
+      home: BottomNavBar(
+
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
+
+/*    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(),
+      home: Scaffold(
+*//*        appBar: AppBar(
+          backgroundColor: Colors.purple,
+          title: const Text("Flutter Title"),
+        ),*//*
+        body: const Center(child: Text("Hello Flutter")),
+      ),
+
+      // theme: ThemeData(
+      //   colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+      //   useMaterial3: true,
+      // ),
+      // home: const MyHomePage(title: 'Flutter Demo Home Page'),
+    );*/
   }
 }
 
