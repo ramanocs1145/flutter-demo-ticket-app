@@ -71,3 +71,39 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+
+/*
+void main() {
+  print("Hello dart");
+  var car = Car(4);
+  car.carType();
+  car.wheelsNum();
+}
+
+
+// Abstrcat class demo - explanation.
+abstract class Vehicle {
+  Vehicle(this.wheeels);
+  int wheeels;
+  void wheelsNum() {
+    print("Vehicle wheels");
+  }
+}
+
+// Concrete classes - Solid == Concrete
+class Car extends Vehicle {
+  Car(super.wheeels);
+
+  void carType() {
+    print("Land runner");
+  }
+
+  @override
+  void wheelsNum() {
+    // TODO: implement wheelsNum
+    super.wheelsNum();
+    print("The car's wheels number is $wheeels");
+  }
+}
+ */
