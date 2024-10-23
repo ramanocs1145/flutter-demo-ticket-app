@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		O7CRtk+DxuhGlbfQnceRS+iEzjs=
+		Xe0dHi5Pi3KA0TX+jjr9Rdzp4dI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Eyqr36ct1z5bhO2OgdQEGarXnFk=
+		jztgjh0JBO+nV/BEfvX0BaRYLZ4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		N1drm0xbvokcYxzZ3uSVlizHYQw=
+		LLDd8bx7Y/yJ8Htun8HoYdMuRaI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		72j7XsWtiUQp95hXIXr56Gc/W8E=
+		4tbVKNSxj71tJVbwAZzButthjc8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -71,6 +71,30 @@
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		wA3P8oltdLRvsyXRXG/wbO1hkYQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/city_view.png</key>
+		<data>
+		9d4UQoJb9IJeqWruvei1o7ZFJe4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/hotel_room.png</key>
+		<data>
+		vhSqMNUoMnvU49FFR2xaIuXcmsc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/plane_sit.png</key>
+		<data>
+		5B2t9C5F8lT7clK3cXV8yzBJyyo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/pool_view.png</key>
+		<data>
+		fMRQneA18wfAvLfhPpY4aPkVRmk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/ticket_logo.png</key>
+		<data>
+		0vxuVDaHfpo7MN8Umjlt71MsGMo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/visa_card.png</key>
+		<data>
+		Pui+VuNrECFhzDlW6srZnV58rJ4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -82,7 +106,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		/29rQ2cqP80PRZ7KFU4YSG9d0II=
+		ZbmlfkFbzCYQ815/g1sLkIo73bg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -226,7 +250,7 @@
 		</data>
 		<key>__preview.dylib</key>
 		<data>
-		JY1VKclz2If9OC3hShPV1sFHjhI=
+		Je5WR+QSZUKPHtIedhz/5PYTKvg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -305,7 +329,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j2dbXa6vSGlCfKaVdIrAG0uw8SXFdVVlLWsPc83Y4X4=
+			AonfJGIG2FBNUNfzGcUIhTfrETtxnaW/yGoTQ9WOOKw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -319,21 +343,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QaWsh6gEqPN/p8AaN+xo1J0H0to6USc1HekT6FZQrZo=
+			o8EXLVNdVutC0ObVZ995OukI+jP+QOLeGBDvPiW/dTI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6LEuh3xjIaOMFBrDIH84GmBEgmrVOxif5OmlrQCr9E4=
+			0fWpIhMWp8QNVGAWjTytb+RPFTe9Nfp4H+neobvxV8k=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YibdULlKk2k6OVseTTgNh7dmuJx9n/7Zpgwx8NbffTk=
+			TVdpV4jcwIJrY8pkEoMCsPKgpyfr2bUJvAQJ0G8t9b8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -348,6 +372,48 @@
 			<key>hash2</key>
 			<data>
 			z9xH0zi/gNAwH8gaH2Oi6eCW+sTIXFfk9KG2qvUTVkA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/city_view.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95BtYKejIiM43edy71rFS5qnfwIh/LPkcSqxW+T01LM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/hotel_room.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lmy6vr81oF+j8EcNzGk7YyzsdR+/sILXBFewGV2eiSw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/plane_sit.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G3pOXc4dbf1jcdpbE+5T/5oOM1B+YcClQOffhgrpjic=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/pool_view.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lY5YOuowRf4oevHf9BJqA341mbIg9EoP2Ui7+inpDz4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/ticket_logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gk9WlddbANm60HSesTA1RjJgeTM5yX7kJhTgasBo4JU=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/visa_card.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Idb7mFTp9J+YQdXk0aPTg7fjlcRVanUlDaorNC64eQ8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -368,7 +434,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			obzj/J6QWIE8MD+mrApFtcpC7QdND45wc2qxO8qd2r4=
+			FVA8wO26c0n0vZ1Xt+h84PURUs+OHJGKS+TxmwH+fF8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -606,7 +672,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aikLdHKLPGpFAIEWIPaWo2YaGHWKrsmDONsX6BPC8bY=
+			C1OSstW2oxTahFwZ9F2HDIkXgE0Pz5MuF6rpxteYc+Q=
 			</data>
 		</dict>
 	</dict>

@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		N1drm0xbvokcYxzZ3uSVlizHYQw=
+		LLDd8bx7Y/yJ8Htun8HoYdMuRaI=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		72j7XsWtiUQp95hXIXr56Gc/W8E=
+		4tbVKNSxj71tJVbwAZzButthjc8=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -23,6 +23,30 @@
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
 		wA3P8oltdLRvsyXRXG/wbO1hkYQ=
+		</data>
+		<key>flutter_assets/assets/images/city_view.png</key>
+		<data>
+		9d4UQoJb9IJeqWruvei1o7ZFJe4=
+		</data>
+		<key>flutter_assets/assets/images/hotel_room.png</key>
+		<data>
+		vhSqMNUoMnvU49FFR2xaIuXcmsc=
+		</data>
+		<key>flutter_assets/assets/images/plane_sit.png</key>
+		<data>
+		5B2t9C5F8lT7clK3cXV8yzBJyyo=
+		</data>
+		<key>flutter_assets/assets/images/pool_view.png</key>
+		<data>
+		fMRQneA18wfAvLfhPpY4aPkVRmk=
+		</data>
+		<key>flutter_assets/assets/images/ticket_logo.png</key>
+		<data>
+		0vxuVDaHfpo7MN8Umjlt71MsGMo=
+		</data>
+		<key>flutter_assets/assets/images/visa_card.png</key>
+		<data>
+		Pui+VuNrECFhzDlW6srZnV58rJ4=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,7 +58,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		/29rQ2cqP80PRZ7KFU4YSG9d0II=
+		ZbmlfkFbzCYQ815/g1sLkIo73bg=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -83,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6LEuh3xjIaOMFBrDIH84GmBEgmrVOxif5OmlrQCr9E4=
+			0fWpIhMWp8QNVGAWjTytb+RPFTe9Nfp4H+neobvxV8k=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YibdULlKk2k6OVseTTgNh7dmuJx9n/7Zpgwx8NbffTk=
+			TVdpV4jcwIJrY8pkEoMCsPKgpyfr2bUJvAQJ0G8t9b8=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -105,6 +129,48 @@
 			<key>hash2</key>
 			<data>
 			z9xH0zi/gNAwH8gaH2Oi6eCW+sTIXFfk9KG2qvUTVkA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/city_view.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			95BtYKejIiM43edy71rFS5qnfwIh/LPkcSqxW+T01LM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/hotel_room.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lmy6vr81oF+j8EcNzGk7YyzsdR+/sILXBFewGV2eiSw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/plane_sit.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G3pOXc4dbf1jcdpbE+5T/5oOM1B+YcClQOffhgrpjic=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/pool_view.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lY5YOuowRf4oevHf9BJqA341mbIg9EoP2Ui7+inpDz4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/ticket_logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gk9WlddbANm60HSesTA1RjJgeTM5yX7kJhTgasBo4JU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/visa_card.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Idb7mFTp9J+YQdXk0aPTg7fjlcRVanUlDaorNC64eQ8=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -125,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			obzj/J6QWIE8MD+mrApFtcpC7QdND45wc2qxO8qd2r4=
+			FVA8wO26c0n0vZ1Xt+h84PURUs+OHJGKS+TxmwH+fF8=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
